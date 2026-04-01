@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer and data science enthus
 
 I'm passionate about building innovative solutions and exploring the intersection of technology, data, and finance. I love learning new technologies and contributing to open-source projects.
 
-- 🔭 Currently working on: **Chat App** - A real-time messaging application
+- 🔭 Currently working on: **Chat App** - A real-time messaging application. And **Fintropolis** - A Finance City.
 - 🌱 Currently learning: Advanced Node.js, WebSockets, Real-time databases
 - 💬 Ask me about: Python, JavaScript, Data Science, Trading Algorithms, Web Development
 - ⚡ Fun fact: I enjoy creating games and analyzing stock market data
